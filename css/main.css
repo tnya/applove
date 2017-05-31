@@ -72,3 +72,37 @@ header {
   color: white;
   padding: 70px;
 }
+
+.text-home{
+  font-size: 53px;
+}
+
+.btn-home{
+  background: #2Ecc71;
+  color: #fff;
+  padding: 11px 20px;
+  border-radius: 1px;
+  font-weight: 500;
+  text-transform: uppercase; 
+  margin-top: 63px;
+  display: inline-block;
+  font-size: 14px;
+}
+
+#services{
+  background-color: #F17C72;
+  text-align: center;
+  color: #fff;
+  padding: 70px 7px;
+}
+
+.box-services{
+  display:inline-block;
+  width: 30%;
+  margin-top: 63px;
+}
+
+.text-services{
+  font-size: 35px;
+  letter-spacing: 2px;
+}
