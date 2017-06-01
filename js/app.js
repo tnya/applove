@@ -46,7 +46,7 @@ miAlert(); */
 /* MODAL WORK */
 
 (function main(){
-	var boxes = Array.from(document.getElementsByClassName("box-work"));
+	var boxes = Array.from(document.getElementsByClassName("col-4"));/* col-4 para que muestre solo 1 producto */
 	var modal = document.getElementById("box-work-modal");
 	var bodyModal, close, img;
 	boxes.forEach(function(box){
