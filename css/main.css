@@ -108,11 +108,6 @@ header {
   letter-spacing: 2px;
 }
 
-
-.work{
-  text-align:center;
-}
-
 .producto{
   width: 80%;
   margin: 0 auto;
@@ -123,6 +118,10 @@ header {
   color: black;
   padding: 70px 7px;
 
+}
+
+p{
+  text-align: center;
 }
 
 footer{
