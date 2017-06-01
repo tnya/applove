@@ -1,11 +1,12 @@
 /*
  * Ingresa el CSS del proyecto en este archivo
  */
-/*font-family: 'Raleway', sans-serif;*/
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
 }
 
 *:before,
@@ -107,6 +108,23 @@ header {
   letter-spacing: 2px;
 }
 
+
+.work{
+  text-align:center;
+}
+
+.producto{
+  width: 80%;
+  margin: 0 auto;
+}
+
+#work{
+  text-align: center;
+  color: black;
+  padding: 70px 7px;
+
+}
+
 footer{
   text-align:center;
   height: 70px;
@@ -114,4 +132,3 @@ footer{
   color: white;
   padding-top: 7px;
 }
-
